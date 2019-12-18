@@ -1,5 +1,5 @@
 const Endpoint =  {
-  apiUrl: 'http://10.254.0.234:8080/'
+  apiUrl: 'http://51.143.175.201:80/'
 };
 
 export default Endpoint;
