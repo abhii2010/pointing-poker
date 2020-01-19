@@ -1,5 +1,5 @@
 const Endpoint =  {
-  apiUrl: 'http://51.143.175.201:80/'
+  apiUrl: 'https://as-estimatorpruapi.azurewebsites.net/'
 };
 
 export default Endpoint;
